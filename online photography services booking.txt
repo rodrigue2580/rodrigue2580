@@ -1,0 +1,42 @@
+Online Photography Services Booking
+
+OVERVIEW
+----------------------
+
+this is an amazing system that will help people to keep their best memories in picture 
+where they can find the best photographer and book their services by accessing this system
+and book any photographer anyday.
+
+Framework Used : Laravel php framework
+----------------------------------------------------------
+
+Mvc (Models , view and controllers)
+---------------------------------------------------------------------
+Models
+          user.php:
+Views
+  
+           index.blade.pp:it consists of codes that made up home page of the project
+
+controllers:
+               indexController.php: complets the action done from index.php
+
+
+How to run  Online Photography Services Booking
+-----------------------------------------------------------------------
+-> download zip file
+->extract the file and copy profesion folder
+-> paste inside root directory 
+->through php my admin
+->create database and import sourcecodester_weddingdb.sqlfile dtabase file 
+->Run the script http://127.0.0.1:8000/#
+->admin credentials :
+----username : bob culture
+----password :rwandanrod
+
+Authors:
+----------------
+Niyonkuru Rodrigue 
+18rp08390
+Gashabizi Theogene
+18rp08664
